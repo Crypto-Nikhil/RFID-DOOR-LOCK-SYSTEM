@@ -9,3 +9,6 @@ Materials Required:
 6. Battery Holder-12v
 7. Battery 3v*4
 8. Relay
+9. Buzzer
+10. Breadboard
+11. LEDs(RED and Green)
